@@ -1,3 +1,5 @@
+<img src="/icon/icon128.png" width="100" alt="Иконка">
+
 ## LICENSE (MIT License)
 Copyright (c) [2025] [oneon4i если есть вопросы пишите в телеграм Я в тг: [vigdesi](https://t.me/vigdesi) если ссылка не работает перейдите в [переходник](https://t.me/perexodGitHub)]
 
