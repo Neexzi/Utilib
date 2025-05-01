@@ -7,7 +7,7 @@ void incalization(bool logs)
     {
         Timer timer;
         timer.startTime();
-        //initUTF8();
+        initUTF8Console();
         std::cout << "✓ Кодировка UTF-8 установлена\n";
         setColor(10);
         std::cout << "✓ ANSI-цвета подключены\n";
@@ -22,6 +22,6 @@ void incalization(bool logs)
     }
     else
     {
-        //initUTF8();
+        initUTF8Console();
     }
 }
