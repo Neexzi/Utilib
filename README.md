@@ -4,5 +4,5 @@
 
 
 
-## Raylib в Utilib! (Только в релизе 2, в остальных Raylib вырезан из-за его громоскости)
+## Raylib в Utilib! (Только в релизе 2, в остальных Raylib вырезан из-за его громоздкости)
 <img src="/icon/helloUltilib.png"  alt="...">
